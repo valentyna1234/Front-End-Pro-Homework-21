@@ -81,17 +81,3 @@ console.log('==========');
 car2.displayInfo();
 console.log('==========');
 car3.displayInfo();
-
-
-
-//humanFirst.info;
-//humanSecond.info;
-//humanThird.info;
-
-//carFirst.owner(humanFirst);
-//carSecond.owner(humanSecond);
-//carThird.owner(humanThird);
-
-//carFirst.carInfo;
-//carSecond.carInfo;
-//carThird.carInfo;
